@@ -1,0 +1,26 @@
+type = customization
+
+customization-meta {
+  identifier = main_menu_background
+  extendable = false
+  renderaliases = false
+}
+
+customization {
+  action = backgroundoptions:keep_aspect_ratio
+  value = false
+}
+
+customization {
+  action = backgroundoptions:fill_background
+  value = true
+}
+
+customization {
+  action = setbackground:image
+  path = config/fancymenu/assets/background.gif
+}
+
+customization {
+  action = hideelement:panorama
+}
