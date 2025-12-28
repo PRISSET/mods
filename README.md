@@ -1,9 +1,11 @@
-# ByStep Launcher Mods
+# ByStep Mods Repository
 
-Моды для Minecraft 1.21.1 Fabric
+## Versions
 
-## Список модов:
-- fabric-api-0.116.7+1.21.1.jar
-- MutantsZombies-1.3.2-Fabric-mc1.21.jar
-- punchy-1.0.7-1.21.1-fabric-alpha.jar
-- sodium-fabric-0.6.13+mc1.21.1.jar
+### 1.16.5-forge (Zombie Apocalypse)
+- Forge modloader
+- Zombie survival themed modpack
+
+### 1.21.1-fabric
+- Fabric modloader
+- Vanilla+ experience with shaders
