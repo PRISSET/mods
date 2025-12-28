@@ -1,11 +1,17 @@
 # ByStep Mods Repository
 
-## Versions
+Моды, шейдеры и ресурспаки для ByStep Launcher.
 
-### 1.16.5-forge (Zombie Apocalypse)
-- Forge modloader
-- Zombie survival themed modpack
+## Структура
 
-### 1.21.1-fabric
-- Fabric modloader
-- Vanilla+ experience with shaders
+```
+mods/
+└── 1.21.1-fabric/          # Minecraft 1.21.1 Fabric
+    ├── *.jar               # Моды
+    ├── shaderpacks/        # Шейдеры
+    └── resourcepacks/      # Текстурпаки
+```
+
+## Версия
+
+- **1.21.1 Fabric** - основная сборка с модами, шейдерами и текстурпаками
